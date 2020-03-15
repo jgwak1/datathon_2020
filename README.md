@@ -1,2 +1,2 @@
-# datathon_2020 ( most technical awards received ) 
-datathon 2020: online shopping intention data 
+# datathon_2020 
+datathon 2020: online shopping intention data ( most technical awards received ) 
